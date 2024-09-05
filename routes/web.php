@@ -170,3 +170,6 @@ Route::resource('photos', PhotoController::class)->except([
 
 // View Langkah 9 modifikasi langkah 2
 Route::get('/greeting', [WelcomeController::class, 'greeting']);
+
+
+// SOAL PRAKTIKUM
